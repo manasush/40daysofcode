@@ -8,9 +8,9 @@
 
 ![coding](https://github.com/manasush/40daysofcode/assets/46699115/17e8b7dd-e7a4-45e6-a028-3d68f37353ad)
 
-| Day      |     Date       | Task Done  | Reference Links 🔗 |
-| -------- |:--------------:| -------------------------: | ----------------:|
-| DAY 1    |                |            |                  |
+| Day      |     Date       | Task Done  | Reference Links 🔗 | checkbox |
+| -------- |:--------------:| -------------------------: | ----------------:| ----------------------:|
+| DAY 1    |                |            |                  |  <ul><li>- [ ] completed</li></ui> |
 | DAY 2    |                |            |                  |
 | Day 3    |                |            |                  |
 | DAY 4    |                |            |                  |
