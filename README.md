@@ -1,7 +1,5 @@
 # 40daysofcode
 
-## Sushan Manandhar
-
 
 ## Timeline
 
