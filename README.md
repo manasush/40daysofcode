@@ -8,7 +8,7 @@
 
 | Day      |     Date       | Task Done  | Reference Links 🔗 | checkbox |
 | -------- |:--------------:| -------------------------: | ----------------:| ----------------------:|
-| DAY 1    |                |            |                  |  <ul><li>- [ ] completed</li></ui> |
+| DAY 1    |     5/10/2023           | search bar with the result box when clicked the autocomplete options|   |  <ul><li>- [x] completed</li></ui> |
 | DAY 2    |                |            |                  |
 | Day 3    |                |            |                  |
 | DAY 4    |                |            |                  |
