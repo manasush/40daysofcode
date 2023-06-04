@@ -7,7 +7,7 @@
 | Day    | Date       | Task Done                | Reference Links      | Checkbox           |
 | ------ | ---------- | ------------------------ | -------------------- | ------------------ |
 | DAY 1  | 5/10/2023  | Shortcut Key Search Bar  | [Shortcut Key][1]    | - [x] Completed    |
-| DAY 2  |            |                          |                      |                    |
+| DAY 2  | 5/11/2023  | TIC-TAC-TOE              | [TIC-TAC-TOE][2}]    | - [x] Completed    |
 | DAY 3  |            |                          |                      |                    |
 | DAY 4  |            |                          |                      |                    |
 | DAY 5  |            |                          |                      |                    |
@@ -48,3 +48,4 @@
 | DAY 40 |            |                          |                      |                    |
 
 [1]: https://manasush.github.io/shortcutkeysearchbar.github.io/
+[2]: https://manasush.github.io/Tic-Tac-Toe/
