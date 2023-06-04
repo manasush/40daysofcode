@@ -6,8 +6,8 @@
 
 | Day    | Date       | Task Done                | Reference Links      | Checkbox           |
 | ------ | ---------- | ------------------------ | -------------------- | ------------------ |
-| DAY 1  | 5/10/2023  | Shortcut Key Search Bar  | [Shortcut Key][1]    | - [x] Completed    |
-| DAY 2  | 5/11/2023  | TIC-TAC-TOE              | [TIC-TAC-TOE][2]     | - [x] Completed    |
+| DAY 1  | 5/10/2023  | Shortcut Key Search Bar  | [Shortcut Key][1]    | ✅ Completed      |
+| DAY 2  | 5/11/2023  | TIC-TAC-TOE              | [TIC-TAC-TOE][2]     | ✅ Completed      |
 | DAY 3  |            |                          |                      |                    |
 | DAY 4  |            |                          |                      |                    |
 | DAY 5  |            |                          |                      |                    |
